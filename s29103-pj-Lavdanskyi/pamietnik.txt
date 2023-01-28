@@ -1,12 +1,18 @@
-09.10.2022;
 -założyłem konto na githubie
-20.10.2022;
+
 Nauczylem sie:
 -dodawac ssh-klicz do github
 -tworzyc katalogi
 -usuwac katalogi
 -tworzyc pliki w katalogah
 -usuwac te pliki
-.
 
+-uzywac linux terminalu
 
+-nadawac ta zmieniac uprawienia dostempu
+
+-pracowac z strumeniami
+-przegladac i pobierac pliki z internetu
+-nauczylem sie skrotam klawiszowym przy uzyciu terminalu
+
+-poznalem PowerShella
